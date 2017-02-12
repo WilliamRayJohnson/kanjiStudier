@@ -1,0 +1,9 @@
+#1
+kanji: 日
+words: 日本 月曜日 今日
+word readings: にほん げつようび きょう
+
+#2
+kanji: 本
+words: 本屋 本当に
+word readings: ほんや ほんとうに
