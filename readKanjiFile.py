@@ -4,5 +4,45 @@ for use in a studier.
 William Ray Johnson
 '''
 
-def readKanjiFile(filename):
+def constructKanjiDictEntry(kanji, words, wordReadings):
+    wordsAndReadings = {}
 
+    for word in range(len(words)):
+        wordsAndReadings.update({words[word]:wordReadings[word]})
+    
+    return {kanji : wordsAndReadings}
+
+
+def readKanjiFile(filename):
+    kanjiDictionary = {}
+    kanji = ''
+    words = []
+    wordReadings = []
+    kanjiFile = open(filename, 'r')
+
+    #process first line which should be #1 kanji label
+    kanjiFile.readline()
+
+    for line in kanjiFile:
+        line = line.rstrip()
+
+        if line != '':
+            if line[0] != '#':
+                lineElements = line.split(' ')
+
+                if lineElements[0] == 'kanji:':
+                    kanji = lineElements[1]
+                elif lineElements[0] == 'words:':
+                    words = lineElements[1:]
+                elif lineElements[0] == 'wordReadings:':
+                    wordReadings = lineElements[1:]
+                else:
+                    raise NameError('Label not found')
+            else:
+                entry = constructKanjiDictEntry(kanji, words, wordReadings)
+                kanjiDictionary.update(entry)
+
+    kanjiFile.close()
+    entry = constructKanjiDictEntry(kanji, words, wordReadings)
+    kanjiDictionary.update(entry)
+    return kanjiDictionary
