@@ -4,6 +4,8 @@ for use in a studier.
 William Ray Johnson
 '''
 
+from collections import OrderedDict
+
 def constructKanjiDictEntry(kanji, words, wordReadings):
     wordsAndReadings = {}
 
@@ -14,7 +16,7 @@ def constructKanjiDictEntry(kanji, words, wordReadings):
 
 
 def readKanjiFile(filename):
-    kanjiDictionary = {}
+    kanjiDictionary = OrderedDict()
     kanji = ''
     words = []
     wordReadings = []
