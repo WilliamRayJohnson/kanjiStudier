@@ -1,9 +1,84 @@
 #1
+kanji: 一
+words: 一時 一年生 一人 一日 一つ
+wordReadings: いちじ いちねんせい ひとり ついたち ひとつ
+
+#2
+kanji: 二
+words: 二人 二日 二つ
+wordReadings: ふたり ふつか ふたつ
+
+#3
+kanji: 三
+words: 三百 三日 三つ
+wordReadings: さんびゅく みっか みっつ
+
+#4
+kanji: 四
+words: 四時 四日 四つ
+wordReadings: よじ よっか よっつ
+
+#5
+kanji: 五
+words: 五日 五つ
+wordReadings: いつか いつつ
+
+#6
+kanji: 六
+words: 六百 六日 六つ
+wordReadings: ろっぴゃく むいか むっつ
+
+#7
+kanji: 七
+words: 七日 七つ
+wordReadings: なのか ななつ
+
+#8
+kanji: 八
+words: 八千 八日 八つ
+wordReadings: はっせん ようか やっつ
+
+#9
+kanji: 九
+words: 九時 九日 九つ
+wordReadings: くじ ここのか ここのつ
+
+#10
+kanji: 十
+words: 十分 十日 十
+wordReadings: じゅうぷん とおか とお
+
+#11
+kanji: 百
+words: 八百
+wordReadings: はっぴゃく
+
+#12
+kanji: 千
+words: 千円
+wordReadings: せんえん
+
+#13
+kanji: 万
+words: 百万
+wordReadings: ひゃくまん
+
+#14
+kanji: 円
+words: 円い 五百円
+wordReadings: まるい ごひゃくえん
+
+#15
+kanji: 時
+words: 時々 時
+wordReadings: ときどき とき
+
+#16
 kanji: 日
 words: 日本 月曜日 今日
 wordReadings: にほん げつようび きょう
 
-#2
+#17
 kanji: 本
 words: 本屋 本当に
 wordReadings: ほんや ほんとうに
