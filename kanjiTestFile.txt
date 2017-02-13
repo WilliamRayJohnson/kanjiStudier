@@ -82,3 +82,63 @@ wordReadings: にほん げつようび きょう
 kanji: 本
 words: 本屋 本当に
 wordReadings: ほんや ほんとうに
+
+#18
+kanji: 人
+words: 日本人
+wordReadings: にほんじん
+
+#19
+kanji: 月
+words: 一月 月曜日
+wordReadings: 一月 げつようび
+
+#20
+kanji: 火
+words: 火曜日
+wordReadings: かようび
+
+#21
+kanji: 水
+words: 水曜日
+wordReadings: すいようび
+
+#22
+kanji: 木
+words: 木曜日 月本
+wordReadings: もくようび つきもと
+
+#23
+kanji: 金
+words: 金曜日 お金
+wordReadings: きんようび おかね
+
+#24
+kanji: 土
+words: 土曜日
+wordReadings: どようび
+
+#25
+kanji: 曜
+words: 曜日
+wordReadings: ようび
+
+#26
+kanji: 上
+words: 上
+wordReadings: うえ
+
+#27
+kanji: 下
+words: 下
+wordReadings: した
+
+#28
+kanji: 中
+words: 中
+wordReadings: なか
+
+#29
+kanji: 半
+words: 一時半
+wordReadings: いちじはん
