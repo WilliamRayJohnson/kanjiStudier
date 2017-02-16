@@ -142,3 +142,73 @@ wordReadings: なか
 kanji: 半
 words: 一時半
 wordReadings: いちじはん
+
+#30
+kanji: 山
+words: 山川 山
+wordReadings: やまがわ やま
+
+#31
+kanji: 川
+words: 川
+wordReadings: かわ
+
+#32
+kanji: 元
+words: 元気な
+wordReadings: げんきな
+
+#33
+kanji: 気
+words: 人気
+wordReadings: にんき
+
+#34
+kanji: 天 
+words: 天気
+wordReadings: てんき
+
+#35
+kanji: 私
+words: 私
+wordReadings: わたし
+
+#36
+kanji: 今
+words: 今 今日
+wordReadings: いま きょう
+
+#37
+kanji: 田
+words: 山田 田中
+wordReadings: やまだ たなか
+
+#38
+kanji: 女
+words: 女の人
+wordReadings: おんなのひと
+
+#39
+kanji: 男
+words: 男の人
+wordReadings: おとこのひと
+
+#40
+kanji: 見
+words: 見る
+wordReadings: みる
+
+#41
+kanji: 行
+words: 行く
+wordReadings: いく
+
+#42
+kanji: 食
+words: 食べる
+wordReadings: たべる
+
+#43
+kanji: 飲
+words: 飲む
+wordReadings: のむ
