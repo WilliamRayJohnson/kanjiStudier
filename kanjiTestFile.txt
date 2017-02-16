@@ -212,3 +212,78 @@ wordReadings: たべる
 kanji: 飲
 words: 飲む
 wordReadings: のむ
+
+#44
+kanji: 東 
+words: 東 東山
+wordReadings: ひがし ひがしやま
+
+#45
+kanji: 西 
+words: 西 西山 西川 西田 中西
+wordReadings: にし にしやま にしかわ にしだ なかにし
+
+#46
+kanji: 南
+words: 南
+wordReadings: みなみ
+
+#47
+kanji: 北 
+words: 北 北川
+wordReadings: きた きたがわ
+
+#48
+kanji: 口 
+words: 口 山口 川口 
+wordReadings: くち やまぐち かわぐち
+
+#49
+kanji: 出
+words: 出口 出る 出かける
+wordReadings: でぐち でる でかける
+
+#50
+kanji: 右
+words: 右
+wordReadings: みぎ
+
+#51
+kanji: 左
+words: 左
+wordReadings: ひだり
+
+#52
+kanji: 分 
+words: 一分 五分 十分
+wordReadings: いっぷん ごふん じゅっぷん
+
+#53
+kanji: 先
+words: 先生
+wordReadings: せんせい
+
+#54
+kanji: 生 
+words: 学生
+wordReadings: がくせい
+
+#55
+kanji: 大
+words: 大きい 大人 大川 大田 大西 大山 大下
+wordReadings: おおきい おとな おおがわ おおだ おおにし おおやま おおした
+
+#56
+kanji: 学
+words: 大学
+wordReadings: だいがく
+
+#57
+kanji: 外
+words: 外
+wordReadings: そと
+
+#58
+kanji: 国
+words: 中国 国 外国人
+wordReadings: ちゅうごく くに がいこくじん
