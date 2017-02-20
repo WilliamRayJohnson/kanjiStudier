@@ -1,0 +1,359 @@
+#1
+kanji: 一
+words: 一時 一年生 一人 一日 一つ
+wordReadings: いちじ いちねんせい ひとり ついたち ひとつ
+
+#2
+kanji: 二
+words: 二人 二日 二つ
+wordReadings: ふたり ふつか ふたつ
+
+#3
+kanji: 三
+words: 三百 三日 三つ
+wordReadings: さんびゅく みっか みっつ
+
+#4
+kanji: 四
+words: 四時 四日 四つ
+wordReadings: よじ よっか よっつ
+
+#5
+kanji: 五
+words: 五日 五つ
+wordReadings: いつか いつつ
+
+#6
+kanji: 六
+words: 六百 六日 六つ
+wordReadings: ろっぴゃく むいか むっつ
+
+#7
+kanji: 七
+words: 七日 七つ
+wordReadings: なのか ななつ
+
+#8
+kanji: 八
+words: 八千 八日 八つ
+wordReadings: はっせん ようか やっつ
+
+#9
+kanji: 九
+words: 九時 九日 九つ
+wordReadings: くじ ここのか ここのつ
+
+#10
+kanji: 十
+words: 十分 十日 十
+wordReadings: じゅうぷん とおか とお
+
+#11
+kanji: 百
+words: 八百
+wordReadings: はっぴゃく
+
+#12
+kanji: 千
+words: 千円
+wordReadings: せんえん
+
+#13
+kanji: 万
+words: 百万
+wordReadings: ひゃくまん
+
+#14
+kanji: 円
+words: 円い 五百円
+wordReadings: まるい ごひゃくえん
+
+#15
+kanji: 時
+words: 時々 時
+wordReadings: ときどき とき
+
+#16
+kanji: 日
+words: 日本 月曜日 今日
+wordReadings: にほん げつようび きょう
+
+#17
+kanji: 本
+words: 本屋 本当に
+wordReadings: ほんや ほんとうに
+
+#18
+kanji: 人
+words: 日本人
+wordReadings: にほんじん
+
+#19
+kanji: 月
+words: 一月 月曜日
+wordReadings: 一月 げつようび
+
+#20
+kanji: 火
+words: 火曜日
+wordReadings: かようび
+
+#21
+kanji: 水
+words: 水曜日
+wordReadings: すいようび
+
+#22
+kanji: 木
+words: 木曜日 月本
+wordReadings: もくようび つきもと
+
+#23
+kanji: 金
+words: 金曜日 お金
+wordReadings: きんようび おかね
+
+#24
+kanji: 土
+words: 土曜日
+wordReadings: どようび
+
+#25
+kanji: 曜
+words: 曜日
+wordReadings: ようび
+
+#26
+kanji: 上
+words: 上
+wordReadings: うえ
+
+#27
+kanji: 下
+words: 下
+wordReadings: した
+
+#28
+kanji: 中
+words: 中
+wordReadings: なか
+
+#29
+kanji: 半
+words: 一時半
+wordReadings: いちじはん
+
+#30
+kanji: 山
+words: 山川 山
+wordReadings: やまがわ やま
+
+#31
+kanji: 川
+words: 川
+wordReadings: かわ
+
+#32
+kanji: 元
+words: 元気な
+wordReadings: げんきな
+
+#33
+kanji: 気
+words: 人気
+wordReadings: にんき
+
+#34
+kanji: 天 
+words: 天気
+wordReadings: てんき
+
+#35
+kanji: 私
+words: 私
+wordReadings: わたし
+
+#36
+kanji: 今
+words: 今 今日
+wordReadings: いま きょう
+
+#37
+kanji: 田
+words: 山田 田中
+wordReadings: やまだ たなか
+
+#38
+kanji: 女
+words: 女の人
+wordReadings: おんなのひと
+
+#39
+kanji: 男
+words: 男の人
+wordReadings: おとこのひと
+
+#40
+kanji: 見
+words: 見る
+wordReadings: みる
+
+#41
+kanji: 行
+words: 行く
+wordReadings: いく
+
+#42
+kanji: 食
+words: 食べる
+wordReadings: たべる
+
+#43
+kanji: 飲
+words: 飲む
+wordReadings: のむ
+
+#44
+kanji: 東 
+words: 東 東山
+wordReadings: ひがし ひがしやま
+
+#45
+kanji: 西 
+words: 西 西山 西川 西田 中西
+wordReadings: にし にしやま にしかわ にしだ なかにし
+
+#46
+kanji: 南
+words: 南
+wordReadings: みなみ
+
+#47
+kanji: 北 
+words: 北 北川
+wordReadings: きた きたがわ
+
+#48
+kanji: 口 
+words: 口 山口 川口 
+wordReadings: くち やまぐち かわぐち
+
+#49
+kanji: 出
+words: 出口 出る 出かける
+wordReadings: でぐち でる でかける
+
+#50
+kanji: 右
+words: 右
+wordReadings: みぎ
+
+#51
+kanji: 左
+words: 左
+wordReadings: ひだり
+
+#52
+kanji: 分 
+words: 一分 五分 十分
+wordReadings: いっぷん ごふん じゅっぷん
+
+#53
+kanji: 先
+words: 先生
+wordReadings: せんせい
+
+#54
+kanji: 生 
+words: 学生
+wordReadings: がくせい
+
+#55
+kanji: 大
+words: 大きい 大人 大川 大田 大西 大山 大下
+wordReadings: おおきい おとな おおがわ おおだ おおにし おおやま おおした
+
+#56
+kanji: 学
+words: 大学
+wordReadings: だいがく
+
+#57
+kanji: 外
+words: 外
+wordReadings: そと
+
+#58
+kanji: 国
+words: 中国 国 外国人
+wordReadings: ちゅうごく くに がいこくじん
+
+#59
+kanji: 京
+words: 東京 京子
+wordReadings: とうきょう きょうこ
+
+#60
+kanji: 子
+words: 子ども
+wordReadings: こども
+
+#61
+kanji: 小
+words: 小さい 小学生
+wordReadings: ちいさい しょうがくせい
+
+#62
+kanji: 会
+words: 会う
+wordReadings: あう
+
+#63
+kanji: 社
+words: 会社
+wordReadings: かいしゃ
+
+#64
+kanji: 父
+words: 父 お父さん
+wordReadings: ちち おとうさん
+
+#65
+kanji: 母 
+words: 母 お母さん
+wordReadings: はは おかあさん
+
+#66
+kanji: 高
+words: 高い 
+wordReadings: たかい
+
+#67
+kanji: 校
+words: 高校 高校生 学校
+wordReadings: こうこう こうこうせい がっこう
+
+#68
+kanji: 毎 
+words: 毎日
+wordReadings: まいにち
+
+#69
+kanji: 語
+words: 日本語 国語 語る
+wordReadings: にほんご こくご かたる
+
+#70
+kanji: 文
+words: 文学
+wordReadings: ぶんがく
+
+#71
+kanji: 帰
+words: 帰る
+wordReadings: かえる
+
+#72
+kanji: 入
+words: 入る 入口
+wordReadings: はいる いりぐち
