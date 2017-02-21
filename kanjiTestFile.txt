@@ -400,13 +400,13 @@ wordReadings: くるま でんしゃ
 
 #81
 kanji: 休
-words: 休む
-wordReadings: やすむ
+words: 休む 休日
+wordReadings: やすむ きゅうじつ
 
 #82
 kanji: 言
-words: 言う
-wordReadings: いう
+words: 言う 言語学
+wordReadings: いう げんごがく
 
 #83
 kanji: 読
@@ -425,5 +425,80 @@ wordReadings: つぎ
 
 #86
 kanji: 何
-words: 何
-wordReadings: なに
+words: 何 何時 何人
+wordReadings: なに なんじ なんにん
+
+#87
+kanji: 午
+words: 午前 
+wordReadings: ごぜん
+
+#88
+kanji: 後
+words: 午後 後で 後ろ
+wordReadings: ごご あとで うしろ
+
+#89
+kanji: 前
+words: 前
+wordReadings: まえ
+
+#90
+kanji: 名
+words: 名前
+wordReadings: なまえ
+
+#91
+kanji: 白
+words: 白い 
+wordReadings: しろい
+
+#92
+kanji: 雨
+words: 雨
+wordReadings: あめ
+
+#93
+kanji: 書
+words: 書く
+wordReadings: かく
+
+#94
+kanji: 友
+words: 友だち 友人
+wordReadings: ともだち ゆうじん
+
+#95
+kanji: 間
+words: 人間 ～の間 時間 二時間
+wordReadings: にんげん ～のあいだ じかん にじかん
+
+#96
+kanji: 家
+words: 家 作家
+wordReadings: うち/いえ さっか
+
+#97
+kanji: 話
+words: 話 話す 電話 会話
+wordReadings: はなし はなす でんわ かいわ
+
+#98
+kanji: 少
+words: 少し 少女 少ない
+wordReadings: すこし しょうじょ すくない
+
+#99
+kanji: 古
+words: 古い
+wordReadings: ふるい
+
+#100
+kanji: 知
+words: 知る 知り合い
+wordReadings: しる しりあい
+
+#101
+kanji: 来
+words: 来る 来ない
+wordReadings: くる こない
