@@ -287,3 +287,218 @@ wordReadings: そと
 kanji: 国
 words: 中国 国 外国人
 wordReadings: ちゅうごく くに がいこくじん
+
+#59
+kanji: 京
+words: 東京 京子
+wordReadings: とうきょう きょうこ
+
+#60
+kanji: 子
+words: 子ども
+wordReadings: こども
+
+#61
+kanji: 小
+words: 小さい 小学生
+wordReadings: ちいさい しょうがくせい
+
+#62
+kanji: 会
+words: 会う
+wordReadings: あう
+
+#63
+kanji: 社
+words: 会社
+wordReadings: かいしゃ
+
+#64
+kanji: 父
+words: 父 お父さん
+wordReadings: ちち おとうさん
+
+#65
+kanji: 母 
+words: 母 お母さん
+wordReadings: はは おかあさん
+
+#66
+kanji: 高
+words: 高い 
+wordReadings: たかい
+
+#67
+kanji: 校
+words: 高校 高校生 学校
+wordReadings: こうこう こうこうせい がっこう
+
+#68
+kanji: 毎 
+words: 毎日
+wordReadings: まいにち
+
+#69
+kanji: 語
+words: 日本語 国語 語る
+wordReadings: にほんご こくご かたる
+
+#70
+kanji: 文
+words: 文学
+wordReadings: ぶんがく
+
+#71
+kanji: 帰
+words: 帰る
+wordReadings: かえる
+
+#72
+kanji: 入
+words: 入る 入口
+wordReadings: はいる いりぐち
+
+#73
+kanji: 員
+words: 会社員 会員
+wordReadings: かいしゃいん かいいん
+
+#74
+kanji: 新
+words: 新しい
+wordReadings: あたらしい
+
+#75
+kanji: 聞
+words: 聞く 新聞
+wordReadings: きく しんぶん
+
+#76
+kanji: 作
+words: 作る 作文
+wordReadings: つくる さくぶん
+
+#77
+kanji: 仕
+words: 仕える
+wordReadings: つかえる
+
+#78
+kanji: 事
+words: 仕事 事
+wordReadings: しごと こと
+
+#79
+kanji: 電
+words: 電気
+wordReadings: でんき
+
+#80
+kanji: 車
+words: 車 電車
+wordReadings: くるま でんしゃ
+
+#81
+kanji: 休
+words: 休む 休日
+wordReadings: やすむ きゅうじつ
+
+#82
+kanji: 言
+words: 言う 言語学
+wordReadings: いう げんごがく
+
+#83
+kanji: 読
+words: 読む
+wordReadings: よむ
+
+#84
+kanji: 思
+words: 思う 思い出す
+wordReadings: おもう おもいだす
+
+#85
+kanji: 次
+words: 次
+wordReadings: つぎ
+
+#86
+kanji: 何
+words: 何 何時 何人
+wordReadings: なに なんじ なんにん
+
+#87
+kanji: 午
+words: 午前 
+wordReadings: ごぜん
+
+#88
+kanji: 後
+words: 午後 後で 後ろ
+wordReadings: ごご あとで うしろ
+
+#89
+kanji: 前
+words: 前
+wordReadings: まえ
+
+#90
+kanji: 名
+words: 名前
+wordReadings: なまえ
+
+#91
+kanji: 白
+words: 白い 
+wordReadings: しろい
+
+#92
+kanji: 雨
+words: 雨
+wordReadings: あめ
+
+#93
+kanji: 書
+words: 書く
+wordReadings: かく
+
+#94
+kanji: 友
+words: 友だち 友人
+wordReadings: ともだち ゆうじん
+
+#95
+kanji: 間
+words: 人間 ～の間 時間 二時間
+wordReadings: にんげん ～のあいだ じかん にじかん
+
+#96
+kanji: 家
+words: 家 作家
+wordReadings: うち/いえ さっか
+
+#97
+kanji: 話
+words: 話 話す 電話 会話
+wordReadings: はなし はなす でんわ かいわ
+
+#98
+kanji: 少
+words: 少し 少女 少ない
+wordReadings: すこし しょうじょ すくない
+
+#99
+kanji: 古
+words: 古い
+wordReadings: ふるい
+
+#100
+kanji: 知
+words: 知る 知り合い
+wordReadings: しる しりあい
+
+#101
+kanji: 来
+words: 来る 来ない
+wordReadings: くる こない
