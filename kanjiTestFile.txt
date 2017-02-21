@@ -357,3 +357,73 @@ wordReadings: かえる
 kanji: 入
 words: 入る 入口
 wordReadings: はいる いりぐち
+
+#73
+kanji: 員
+words: 会社員 会員
+wordReadings: かいしゃいん かいいん
+
+#74
+kanji: 新
+words: 新しい
+wordReadings: あたらしい
+
+#75
+kanji: 聞
+words: 聞く 新聞
+wordReadings: きく しんぶん
+
+#76
+kanji: 作
+words: 作る 作文
+wordReadings: つくる さくぶん
+
+#77
+kanji: 仕
+words: 仕える
+wordReadings: つかえる
+
+#78
+kanji: 事
+words: 仕事 事
+wordReadings: しごと こと
+
+#79
+kanji: 電
+words: 電気
+wordReadings: でんき
+
+#80
+kanji: 車
+words: 車 電車
+wordReadings: くるま でんしゃ
+
+#81
+kanji: 休
+words: 休む
+wordReadings: やすむ
+
+#82
+kanji: 言
+words: 言う
+wordReadings: いう
+
+#83
+kanji: 読
+words: 読む
+wordReadings: よむ
+
+#84
+kanji: 思
+words: 思う 思い出す
+wordReadings: おもう おもいだす
+
+#85
+kanji: 次
+words: 次
+wordReadings: つぎ
+
+#86
+kanji: 何
+words: 何
+wordReadings: なに
