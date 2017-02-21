@@ -6,7 +6,7 @@ William Ray Johnson
 from readKanjiFile import *
 from random import choice, shuffle
 
-KANJI_FILE = 'kanjiTestFile.txt'
+KANJI_FILE = 'genkiKanji.txt'
 CHAP_RANGS = [(0,0), (0,0), (0,0), (0,15), (15,29), (29,43), (43,58), (58,72),
         (72,86), (86,101), (101,115), (115,131), (131,145), (145,161),
         (161,177), (177,193), (193,209)]
