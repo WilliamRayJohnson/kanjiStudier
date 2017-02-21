@@ -502,3 +502,73 @@ wordReadings: しる しりあい
 kanji: 来
 words: 来る 来ない
 wordReadings: くる こない
+
+#102
+kanji: 住
+words: 住む
+wordReadings: すむ
+
+#103
+kanji: 正
+words: お正月 正しい
+wordReadings: おしょうがつ ただしい
+
+#104
+kanji: 年
+words: 今年 来年 一年生 少年
+wordReadings: ことし らいねん いちねんせい しょうねん
+
+#105
+kanji: 売
+words: 売る
+wordReadings: うる
+
+#106
+kanji: 買
+words: 買う
+wordReadings: かう
+
+#107
+kanji: 町
+words: 町
+wordReadings: まち
+
+#108
+kanji: 長
+words: 長い 社長 町長
+wordReadings: ながい しゃちょう ちょうちょう
+
+#109
+kanji: 道
+words: 道 書道
+wordReadings: みち しょどう
+
+#110
+kanji: 雪
+words: 雪
+wordReadings: ゆき
+
+#111
+kanji: 立
+words: 立つ
+wordReadings: たつ
+
+#112
+kanji: 自
+words: 自分
+wordReadings: じぶん
+
+#113
+kanji: 夜
+words: 夜 今夜
+wordReadings: よる こんや
+
+#114
+kanji: 朝
+words: 朝 今朝 毎朝
+wordReadings: あさ けさ まいあさ
+
+#115
+kanji: 持
+words: 持つ 持ってくる 気持ち
+wordReadings: もつ もってくる きもち
