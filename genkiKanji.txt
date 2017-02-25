@@ -802,3 +802,83 @@ wordReadings: うみ にほんかい ほっかいど
 kanji: 昼
 words: 昼ご飯
 wordReadings: ひるごはん
+
+#162
+kanji: 彼
+words: 彼 彼女
+wordReadings: かれ かのじょ
+
+#163
+kanji: 代
+words: 時代
+wordReadings: じだい
+
+#164
+kanji: 留
+words: 留学生 留学する
+wordReadings: りゅうがくせい りゅうがくする
+
+#165
+kanji: 族
+words: 家族
+wordReadings: かぞく
+
+#166
+kanji: 親
+words: 父親 母親
+wordReadings: ちちおや ははおや
+
+#167
+kanji: 切
+words: 切る 親切な
+wordReadings: きる しんせつな
+
+#168
+kanji: 英
+words: 英語
+wordReadings: えいご
+
+#169
+kanji: 店
+words: 店長 店員
+wordReadings: てんちょう てんいん
+
+#170
+kanji: 去
+words: 去年 去る
+wordReadings: きょねん さる
+
+#171
+kanji: 急
+words: 急に 急ぐ
+wordReadings: きゅに いそぐ
+
+#172
+kanji: 乗
+words: 乗る 乗り物 
+wordReadings: のる のりもの
+
+#173
+kanji: 当
+words: 本当に 当たる
+wordReadings: ほんとうに あたる
+
+#174
+kanji: 音
+words: 本音
+wordReadings: ほんね
+
+#175
+kanji: 楽
+words: 音楽 楽しい
+wordReadings: おんがく たんおしい
+
+#176
+kanji: 医
+words: 医者
+wordReadings: いしゃ
+
+#177
+kanji: 者
+words: 作者
+wordReadings: さくしゃ
