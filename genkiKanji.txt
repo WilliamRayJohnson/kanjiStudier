@@ -722,3 +722,83 @@ wordReadings: あおい
 kanji: 色
 words: 色々な 金色
 wordReadings: いろいろな きんいろ
+
+#146
+kanji: 物
+words: 食べ物 飲み物 買い物 物語
+wordReadings: たべもの のみもの かいもの ものがたり
+
+#147
+kanji: 鳥
+words: 白鳥
+wordReadings: はくちょう
+
+#148
+kanji: 料
+words: 料理
+wordReadings: りょうり
+
+#149
+kanji: 理
+words: 料理
+wordReadings: りょうり
+
+#150
+kanji: 特
+words: 特に 特別な
+wordReadings: とくに とくべつな
+
+#151
+kanji: 安
+words: 安い
+wordReadings: やすい
+
+#152
+kanji: 飯
+words: ご飯 朝ごはん
+wordReadings: ごはん あさごはん 
+
+#153
+kanji: 肉
+words: 肉
+wordReadings: にく
+
+#154
+kanji: 悪
+words: 悪い
+wordReadings: わるい
+
+#155
+kanji: 体
+words: 体
+wordReadings: からだ
+
+#156
+kanji: 空
+words: 空 空気
+wordReadings: そら くうき
+
+#157
+kanji: 港
+words: 空港
+wordReadings: くうこう
+
+#158
+kanji: 着
+words: 着る 着く 着物
+wordReadings: きる つく きもの
+
+#159
+kanji: 同
+words: 同じ
+wordReadings: おなじ
+
+#160
+kanji: 海
+words: 海 日本海 北海度
+wordReadings: うみ にほんかい ほっかいど
+
+#161
+kanji: 昼
+words: 昼ご飯
+wordReadings: ひるごはん
