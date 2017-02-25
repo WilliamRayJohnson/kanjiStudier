@@ -652,3 +652,73 @@ wordReadings: ゆうめいな
 kanji: 旅
 words: 旅行
 wordReadings: りょこう
+
+#132
+kanji: 昔
+words: 昔々
+wordReadings: むかしむかし
+
+#133
+kanji: 々
+words: 時々
+wordReadings: ときどき
+
+#134
+kanji: 神
+words: 神さま 神社
+wordReadings: かみさま じんじゃ
+
+#135
+kanji: 早
+words: 早い 早く
+wordReadings: はやい はやく
+
+#136
+kanji: 起
+words: 起きる
+wordReadings: おきる
+
+#137
+kanji: 牛
+words: 牛
+wordReadings: うし
+
+#138
+kanji: 使
+words: 使う
+wordReadings: つかう
+
+#139
+kanji: 働
+words: 働く
+wordReadings: はたらく
+
+#140
+kanji: 連
+words: 連れて帰る
+wordReadings: つれてかえる
+
+#141
+kanji: 別
+words: 別れる 別に
+wordReadings: わかれる べつに
+
+#142
+kanji: 度
+words: 一度 今度
+wordReadings: いちど こんど
+
+#143
+kanji: 赤
+words: 赤い
+wordReadings: あかい
+
+#144
+kanji: 青
+words: 青い
+wordReadings: あおい
+
+#145
+kanji: 色
+words: 色々な 金色
+wordReadings: いろいろな きんいろ
