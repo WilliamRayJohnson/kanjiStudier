@@ -91,7 +91,7 @@ wordReadings: にほんじん
 #19
 kanji: 月
 words: 一月 月曜日
-wordReadings: 一月 げつようび
+wordReadings: いちがつ げつようび
 
 #20
 kanji: 火
