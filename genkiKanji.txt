@@ -882,3 +882,73 @@ wordReadings: いしゃ
 kanji: 者
 words: 作者
 wordReadings: さくしゃ
+
+#178
+kanji: 死
+words: 死ぬ 死者
+wordReadings: しぬ ししゃ
+
+#179
+kanji: 意
+words: 意見
+wordReadings: いけん
+
+#180
+kanji: 味
+words: 意味
+wordReadings: いみ
+
+#181
+kanji: 注
+words: 注文する
+wordReadings: ちゅうもんする
+
+#182
+kanji: 夏
+words: 夏休み 夏
+wordReadings: なつやすみ なつ
+
+#183
+kanji: 魚
+words: 魚 人魚 金魚
+wordReadings: さかな にんぎょ きんぎょ
+
+#184
+kanji: 寺
+words: お寺 寺院
+wordReadings: おてら じいん
+
+#185
+kanji: 広
+words: 広い
+wordReadings: ひろい
+
+#186
+kanji: 転
+words: 自転車
+wordReadings: じてんしゃ
+
+#187
+kanji: 借
+words: 借りる
+wordReadings: かりる
+
+#188
+kanji: 走
+words: 走る 走り書き
+wordReadings: はしる はしりかき
+
+#189
+kanji: 建
+words: 建物
+wordReadings: たてもの
+
+#190
+kanji: 地
+words: 地下
+wordReadings: ちか
+
+#191
+kanji: 場
+words: 場所 広場
+wordReadings: ばしょ ひろば
