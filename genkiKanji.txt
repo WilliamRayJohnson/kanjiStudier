@@ -572,3 +572,83 @@ wordReadings: あさ けさ まいあさ
 kanji: 持
 words: 持つ 持ってくる 気持ち
 wordReadings: もつ もってくる きもち
+
+#116
+kanji: 手
+words: 上手な 下手な
+wordReadings: じょうずな へたな
+
+#117
+kanji: 紙
+words: 手紙
+wordReadings: てがみ
+
+#118
+kanji: 好
+words: 好きな 
+wordReadings: すきな
+
+#119
+kanji: 近
+words: 近く
+wordReadings: ちかく
+
+#120
+kanji: 明
+words: 明るい 明日
+wordReadings: あかるい あした
+
+#121
+kanji: 病
+words: 病気
+wordReadings: びょうき
+
+#122
+kanji: 院
+words: 病院
+wordReadings: びょういん
+
+#123
+kanji: 映
+words: 映画
+wordReadings: えいが
+
+#124
+kanji: 画
+words: 映画
+wordReadings: えいが
+
+#125
+kanji: 歌
+words: 歌 歌う
+wordReadings: うた うたう
+
+#126
+kanji: 市
+words: 川口市
+wordReadings: かわぐちし
+
+#127
+kanji: 所
+words: 所 近所
+wordReadings: ところ きんじょ
+
+#128
+kanji: 勉
+words: 勉める
+wordReadings: つとめる
+
+#129
+kanji: 強
+words: 勉強する 強い
+wordReadings: べんきょうする つよい
+
+#130
+kanji: 有
+words: 有名な
+wordReadings: ゆうめいな
+
+#131
+kanji: 旅
+words: 旅行
+wordReadings: りょこう
