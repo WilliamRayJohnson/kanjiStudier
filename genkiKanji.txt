@@ -952,3 +952,93 @@ wordReadings: ちか
 kanji: 場
 words: 場所 広場
 wordReadings: ばしょ ひろば
+
+#192
+kanji: 足
+words: 足 足りる
+wordReadings: あし たりる
+
+#193
+kanji: 通
+words: 通る
+wordReadings: とおる
+
+#194
+kanji: 供
+words: 子供
+wordReadings: こども
+
+#195
+kanji: 世
+words: 世代 世話
+wordReadings: せだい せわ
+
+#196
+kanji: 界
+words: 世界
+wordReadings: せかい
+
+#197
+kanji: 全
+words: 全部 全て
+wordReadings: ぜんぶ すべて
+
+#198
+kanji: 部
+words: 部長 テニス部
+wordReadings: ぶちょう テニスぶ
+
+#199
+kanji: 始
+words: 始まる 始める
+wordReadings: はじまる はじめる
+
+#200
+kanji: 週
+words: 一週間 今週 来週 先週
+wordReadings: いっしゅうかん こんしゅう らいしゅう せんしゅう
+
+#201
+kanji: 以
+words: 以外 以上
+wordReadings: いがい いじょう
+
+#202
+kanji: 考
+words: 考える
+wordReadings: かんがえる
+
+#203
+kanji: 開
+words: 開ける 開く
+wordReadings: あける あく
+
+#204
+kanji: 屋
+words: 本屋 部屋
+wordReadings: ほんや へや
+
+#205
+kanji: 方
+words: 味方 読み方
+wordReadings: みかた よみかた
+
+#206
+kanji: 運
+words: 運転する
+wordReadings: うんてんする
+
+#207
+kanji: 動
+words: 運動する 動画 動物
+wordReadings: うんどうする どうが どうぶつ
+
+#208
+kanji: 教
+words: 教える
+wordReadings: おしえる
+
+#209
+kanji: 室
+words: 教室 音楽室
+wordReadings: きょうしつ おんがくしつ
