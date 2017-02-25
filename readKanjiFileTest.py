@@ -3,7 +3,7 @@ from readKanjiFile import *
 def main():
     testDict = readKanjiFile('genkiKanji.txt')
 
-    for entry in list(testDict.items()):
+    for entry in testDict:
         print(entry)
     print('There are {} entries in this dictionary.'.format(len(testDict)))
 

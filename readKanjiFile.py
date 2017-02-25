@@ -16,7 +16,8 @@ def constructKanjiDictEntry(kanji, words, wordReadings):
 
 
 def readKanjiFile(filename):
-    kanjiDictionary = OrderedDict()
+    kanjiDictionary = []
+    chapEntry = OrderedDict()
     kanji = ''
     words = []
     wordReadings = []
@@ -29,22 +30,27 @@ def readKanjiFile(filename):
         line = line.rstrip()
 
         if line != '':
-            if line[0] != '#':
-                lineElements = line.split(' ')
+            if line[0] != '@':
+                if line[0] != '#':
+                    lineElements = line.split(' ')
 
-                if lineElements[0] == 'kanji:':
-                    kanji = lineElements[1]
-                elif lineElements[0] == 'words:':
-                    words = lineElements[1:]
-                elif lineElements[0] == 'wordReadings:':
-                    wordReadings = lineElements[1:]
+                    if lineElements[0] == 'kanji:':
+                        kanji = lineElements[1]
+                    elif lineElements[0] == 'words:':
+                        words = lineElements[1:]
+                    elif lineElements[0] == 'wordReadings:':
+                        wordReadings = lineElements[1:]
+                    else:
+                        raise NameError('Label not found')
                 else:
-                    raise NameError('Label not found')
+                    entry = constructKanjiDictEntry(kanji, words, wordReadings)
+                    chapEntry.update(entry)
             else:
-                entry = constructKanjiDictEntry(kanji, words, wordReadings)
-                kanjiDictionary.update(entry)
+                kanjiDictionary.append(chapEntry)
+                chapEntry = OrderedDict()
 
     kanjiFile.close()
     entry = constructKanjiDictEntry(kanji, words, wordReadings)
-    kanjiDictionary.update(entry)
+    chapEntry.update(entry)
+    kanjiDictionary.append(chapEntry)
     return kanjiDictionary

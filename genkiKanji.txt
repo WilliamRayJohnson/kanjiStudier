@@ -1,4 +1,4 @@
-#1
+@3 #1
 kanji: 一
 words: 一時 一年生 一人 一日 一つ
 wordReadings: いちじ いちねんせい ひとり ついたち ひとつ
@@ -73,7 +73,7 @@ kanji: 時
 words: 時々 時
 wordReadings: ときどき とき
 
-#16
+@4 #16
 kanji: 日
 words: 日本 月曜日 今日
 wordReadings: にほん げつようび きょう
@@ -143,7 +143,7 @@ kanji: 半
 words: 一時半
 wordReadings: いちじはん
 
-#30
+@5 #30
 kanji: 山
 words: 山川 山
 wordReadings: やまがわ やま
@@ -213,7 +213,7 @@ kanji: 飲
 words: 飲む
 wordReadings: のむ
 
-#44
+@6 #44
 kanji: 東 
 words: 東 東山
 wordReadings: ひがし ひがしやま
@@ -288,7 +288,7 @@ kanji: 国
 words: 中国 国 外国人
 wordReadings: ちゅうごく くに がいこくじん
 
-#59
+@7 #59
 kanji: 京
 words: 東京 京子
 wordReadings: とうきょう きょうこ
@@ -358,7 +358,7 @@ kanji: 入
 words: 入る 入口
 wordReadings: はいる いりぐち
 
-#73
+@8 #73
 kanji: 員
 words: 会社員 会員
 wordReadings: かいしゃいん かいいん
@@ -428,7 +428,7 @@ kanji: 何
 words: 何 何時 何人
 wordReadings: なに なんじ なんにん
 
-#87
+@9 #87
 kanji: 午
 words: 午前 
 wordReadings: ごぜん
@@ -503,7 +503,7 @@ kanji: 来
 words: 来る 来ない
 wordReadings: くる こない
 
-#102
+@10 #102
 kanji: 住
 words: 住む
 wordReadings: すむ
@@ -573,7 +573,7 @@ kanji: 持
 words: 持つ 持ってくる 気持ち
 wordReadings: もつ もってくる きもち
 
-#116
+@11 #116
 kanji: 手
 words: 上手な 下手な
 wordReadings: じょうずな へたな
@@ -653,7 +653,7 @@ kanji: 旅
 words: 旅行
 wordReadings: りょこう
 
-#132
+@12 #132
 kanji: 昔
 words: 昔々
 wordReadings: むかしむかし
@@ -723,7 +723,7 @@ kanji: 色
 words: 色々な 金色
 wordReadings: いろいろな きんいろ
 
-#146
+@13 #146
 kanji: 物
 words: 食べ物 飲み物 買い物 物語
 wordReadings: たべもの のみもの かいもの ものがたり
@@ -803,7 +803,7 @@ kanji: 昼
 words: 昼ご飯
 wordReadings: ひるごはん
 
-#162
+@14 #162
 kanji: 彼
 words: 彼 彼女
 wordReadings: かれ かのじょ
@@ -883,7 +883,7 @@ kanji: 者
 words: 作者
 wordReadings: さくしゃ
 
-#178
+@15 #178
 kanji: 死
 words: 死ぬ 死者
 wordReadings: しぬ ししゃ
@@ -963,7 +963,7 @@ kanji: 通
 words: 通る
 wordReadings: とおる
 
-#194
+@16 #194
 kanji: 供
 words: 子供
 wordReadings: こども
